@@ -1,2 +1,2 @@
 # Ex1_cpp
-Screenshot from 2022-03-09 09-02-11.png
+![alt_text](https://github.com/shoham-cohen/Ex1_cpp/blob/main/Screenshot%20from%202022-03-09%2009-02-11.png?raw=true)
